@@ -3,6 +3,7 @@ classification using keras
 usage:
 
 training
+	
 	1)collect datasets copy to data folder by keeping sepperate folders based on class name
 	
 	2)modify folder structure in code
