@@ -1,7 +1,16 @@
 classification using keras
 
 usage:
-	-->collect data sets copy to data folder by keeping sepperate folders based on class name
-	-->modify folder structure in code
+
+training
+	1)collect datasets copy to data folder by keeping sepperate folders based on class name
+	
+	2)modify folder structure in code
+	
+inference:
+
+	1)modify code with your image name and run
+	
+	
 	
 	
